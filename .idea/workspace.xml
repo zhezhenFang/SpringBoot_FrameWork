@@ -4,26 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01c074ea-8a02-4ba0-a053-f0cf50aafdbd" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringFrameworkBackend/src/main/java/com/kob/backend/config/CorsConfig.java" afterDir="false" />
+    <list default="true" id="fd141afa-fca2-42a5-9fd3-807601806a07" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringFrameworkBackend/src/main/java/com/kob/backend/controller/pk/BotInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringFrameworkBackend/src/main/java/com/kob/backend/controller/pk/BotInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/src/assets/logo.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="31Lijjp7XrMx5xA1wOVBU8R4F11" />
+  <component name="ProjectId" id="31Mp880OKnJHlwXZPJE2XvoGYPV" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
@@ -37,15 +33,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Code\Java\SpringFramework\kob\SpringFrameworkBackend\src" />
-    </key>
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Backend" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.kob.backend.*" />
@@ -53,8 +46,6 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.kob.backend.BackendApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,14 +59,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="01c074ea-8a02-4ba0-a053-f0cf50aafdbd" name="变更" comment="" />
-      <created>1755309902047</created>
+      <changelist id="fd141afa-fca2-42a5-9fd3-807601806a07" name="变更" comment="" />
+      <created>1755343648513</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1755309902047</updated>
-      <workItem from="1755309923520" duration="6006000" />
-      <workItem from="1755343091126" duration="132000" />
-      <workItem from="1755343320514" duration="87000" />
+      <updated>1755343648513</updated>
+      <workItem from="1755343652347" duration="1688000" />
+      <workItem from="1755395766398" duration="409000" />
     </task>
     <servers />
   </component>

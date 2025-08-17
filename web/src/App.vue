@@ -8,7 +8,7 @@
 
 <script>
 import $ from 'jquery';
-import { ref } from 'vue';
+import{ref} from 'vue';
 
 export default{
   name: "App",
@@ -18,9 +18,10 @@ export default{
 
     $.ajax({
       url:"http://127.0.0.1:3000/pk/getBotInfo/",
-      type: "get",
+      type:"get",
       success: resp => {
-        console.log(resp);
+        bot_name.value = resp.name;
+        bot_rating.value = resp.rating;
       }
     });
 
@@ -33,5 +34,8 @@ export default{
 </script>
 
 <style>
-
+body{
+  background-image: url("@/assets/background.png");
+  background-size: cover;
+}
 </style>
